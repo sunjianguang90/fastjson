@@ -1,5 +1,9 @@
 # fastjson
+fastjson 是一个性能很好的 Java 语言实现的 JSON 解析器和生成器。
 
+所属公司：阿里巴巴 Star：1700 提交时间：7/31/2011
+
+优势：fastjson有效提升parse速度，支持http://json.org的标准。支持各种JDK类型。包含基本类型、JavaBean、Collection、Map、Enum、泛型等。支持循环引用。
 [![Build Status](https://travis-ci.org/alibaba/fastjson.svg?branch=master)](https://travis-ci.org/alibaba/fastjson)
 [![Codecov](https://codecov.io/gh/alibaba/fastjson/branch/master/graph/badge.svg)](https://codecov.io/gh/alibaba/fastjson/branch/master)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.alibaba/fastjson/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.alibaba/fastjson/)
